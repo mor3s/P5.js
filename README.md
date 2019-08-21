@@ -66,7 +66,8 @@ Most of these algorithms are based on coding train videos <https://www.youtube.c
 * Recamán's Sequence
 <https://editor.p5js.org/Mor3s/sketches/by0TIlwnT>
 
-
+* Manderbrot Set
+<https://editor.p5js.org/Mor3s/sketches/C-nLan_o8>
 
 
 
