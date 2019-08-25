@@ -69,7 +69,11 @@ Most of these algorithms are based on coding train videos <https://www.youtube.c
 * Manderbrot Set
 <https://editor.p5js.org/Mor3s/sketches/C-nLan_o8>
 
+* Random Walker 2D
+<https://editor.p5js.org/Mor3s/sketches/3EPPpTc4l>
 
+* Random Walker with Levy flight
+<https://editor.p5js.org/Mor3s/sketches/z4OKo0kU0>
 
 
 
