@@ -75,6 +75,16 @@ Most of these algorithms are based on coding train videos <https://www.youtube.c
 * Random Walker with Levy flight
 <https://editor.p5js.org/Mor3s/sketches/z4OKo0kU0>
 
+* Movie Similarity
+<https://editor.p5js.org/Mor3s/sketches/PaYktfe9E>
 
+* KNN Recomandation
+<https://editor.p5js.org/Mor3s/sketches/zAZhHCQ9->
+
+* Linear Regression with ordinary least squares
+<https://editor.p5js.org/Mor3s/sketches/m4oiWNz_5>
+
+* Linear Regression with gradient descent
+<https://editor.p5js.org/Mor3s/sketches/CLJHJ7sis>
 
 
