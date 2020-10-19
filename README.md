@@ -2,7 +2,7 @@ P5.js Algorithms
 ======================
 
 In this readme file, I will link all the algorithms that I code with the p5.js librarie on p5.js Web Editor.
-Most of these algorithms are based on coding train videos <https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw> (please check the chanel this guy is amazing ! ) 
+Most of these algorithms are based on coding train videos <https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw> (please check the chanel this guy is amazing ! ) yay ! 
 
 -------------------------------------------------------------------------
 
@@ -86,5 +86,3 @@ Most of these algorithms are based on coding train videos <https://www.youtube.c
 
 * Linear Regression with gradient descent
 <https://editor.p5js.org/Mor3s/sketches/CLJHJ7sis>
-
-
